@@ -1,21 +1,6 @@
-## Hi there 👋
+![Header](readme.png)
 
-<!--
-**skym9753-debug/skym9753-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 📚 STACKS
+# 🧰 STACKS
 
 <!-- ## 언어 -->
 ### Languages
@@ -77,3 +62,7 @@ Here are some ideas to get you started:
 ![Fontawesome](https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 ![Balsamiq](https://img.shields.io/badge/Balsamiq-CC0000?style=for-the-badge&logo=balsamiq&logoColor=white)
 ![ERDCloud](https://img.shields.io/badge/ERDCloud-00A2AE?style=for-the-badge&logoColor=white)
+
+
+# 🧑‍💻 ABOUT ME
+
