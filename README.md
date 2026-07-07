@@ -1,8 +1,38 @@
 ![Header](readme.png)
 
-# 🧰 STACKS
+<br>
+<div align="center">
+  React와 Spring Boot 기반의 프로젝트를 경험하며<br>
+  꾸준히 배우고 성장하는 Full Stack Developer입니다.<br><br>
+  사용자 경험을 고민하고, 안정적인 서비스를 만드는 개발자를 목표로 합니다.
+</div>
+<br>
 
-<!-- ## 언어 -->
+<hr>
+
+<div align="center">
+  <h2>🔗 MY LINK</h2>
+</div>
+
+<div align="center">
+  <a href="https://your-portfolio-url.com" target="_blank"> <!-- 포트폴리오 배포 되면 해당 url로 수정해야함. -->
+    <img src="https://img.shields.io/badge/Portfolio-0072C9?style=for-the-badge&logo=sky&logoColor=white" alt="Portfolio">
+  </a>
+  
+  <!-- <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"> -->
+  
+  <a href="mailto:skym9753@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a> 
+</div>
+
+<br>
+
+<div align="center">
+  <h2>🧰 STACKS</h2>
+</div>
+
+<!-- 언어 -->
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -11,7 +41,7 @@
 <!-- <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 'C++' -->
 <!-- <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 'Python' -->
 
-<!-- ## 프론트 기술 -->
+<!-- 프론트 기술 -->
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
@@ -24,7 +54,8 @@
 <!--  UI 프레임워크 -->
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<!-- ## 백엔드 기술 -->
+
+<!-- 백엔드 기술 -->
 ### Backend
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -34,14 +65,15 @@
 <!-- <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> 'Flutter' -->
 <!-- <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> 'Bootstrap' -->
 
-<!-- ## 데이터베이스 -->
+
+<!-- 데이터베이스 -->
 ### Database
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 <!-- <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 'Maria DB' -->
 
-<!-- ## 배포 -->
+<!-- 배포 -->
 ### Deployment
 ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
@@ -52,17 +84,27 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<!-- ## 버전 관리(Version Control) -->
+<!-- 버전 관리(Version Control) -->
 ### VCS
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<!-- ## 도구 -->
+<!-- 도구 -->
 ### Tools
 ![Fontawesome](https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 ![Balsamiq](https://img.shields.io/badge/Balsamiq-CC0000?style=for-the-badge&logo=balsamiq&logoColor=white)
 ![ERDCloud](https://img.shields.io/badge/ERDCloud-00A2AE?style=for-the-badge&logoColor=white)
 
+<br>
 
-# 🧑‍💻 ABOUT ME
+<div align="center">
+  <h2>🧑‍💻 ABOUT ME</h2>
+</div>
 
+<div align="left">
+  <p>  - 🌱 React와 Spring Boot를 활용한 웹 프로젝트를 개발했습니다.</p>
+  <p>  - 💡 사용자 경험(UX)과 유지보수가 쉬운 코드를 중요하게 생각합니다.</p>
+  <p>  - 🚀 새로운 기술을 배우고 프로젝트에 적용하는 것을 좋아합니다.</p>
+  <p>  - 🤝 협업과 코드 리뷰를 통해 함께 성장하는 개발자가 되고 싶습니다.</p>
+  <p>  - 💻 항상 더 나은 코드와 사용자 경험을 고민하는 개발자 되겠습니다.</p>
+</div>
